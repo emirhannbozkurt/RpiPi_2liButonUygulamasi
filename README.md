@@ -9,3 +9,5 @@ Uygulamada 1 adet LED
 
 Amacımız 1. butona basıldığı zaman Led'i yakan 2. butona basıldığı zaman Led'i söndüren bir projedir
 
+Devre şeması ve Python kodları proje dosyası içerisinde verilmiştir.
+
